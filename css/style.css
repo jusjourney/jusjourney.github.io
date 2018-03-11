@@ -1,0 +1,35 @@
+body{
+	background-color: #FFFEFF;
+}
+
+.header-image{
+	background-image: url(../img/flower1.jpeg);
+	background-size: cover;
+	padding: 100px;
+}
+
+.title1{
+	font-family: didot;
+	color: black;
+	font-size: 45px;
+	text-align: center;
+	padding: 130px;
+}
+
+.card{
+	border-color: white;
+}
+
+.nav-link{
+	font-family: didot;
+	font-size: 18px;
+}
+
+.navbar-brand{
+	font-family: didot;
+	font-size: 20px;
+}
+
+.container{
+	font-family: didot;
+}
